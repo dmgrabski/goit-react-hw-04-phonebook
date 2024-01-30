@@ -1,6 +1,6 @@
 import React from "react";
 import Section from "../Section/Section";
-import ContactForm from "../ContactForm/";
+import ContactForm from "../ContactForm/ContactForm";
 import Contacts from "../ContactList/ContactList";
 import Filter from "../Filter/Filter";
 
