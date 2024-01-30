@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./index.css";
-import Phonebook from "./components/Phonebook";
+import Phonebook from "../components/Phonebook/Phonebook";
 
 const App = () => {
   const [contacts, setContacts] = useState([]);
